@@ -1,0 +1,12 @@
+@import url(./_content/footer__column_content_copyright.css);
+@import url(./_content/footer__column_content_info.css);
+@import url(./_content/footer__column_content_social.css);
+
+.footer__columns {
+  width: 90%;
+  min-height: 350px;
+  display: flex;
+  justify-content: space-between;
+  flex-basis: 711px;
+  margin: 0 auto;
+}
